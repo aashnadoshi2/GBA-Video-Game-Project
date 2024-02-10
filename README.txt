@@ -1,0 +1,3 @@
+Aashna Doshi
+
+I created the Hardest Game Ever with a player that is represented by a red block and enemies of different forms represented by green blocks and lines. The aim of the game is to reach the treasure on the other side after passing the enemies using buttons on your laptop. Up arrow for going up, down for down, left arrow for left and right arrow for the right. If you win, the win screen pops up and if you lose all 3 lives, you reach the \'91Loser\'92 screen. Lives are displayed on the screen using a textview and lives decrease by 1 every time a green enemy is hit.}
